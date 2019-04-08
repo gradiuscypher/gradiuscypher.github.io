@@ -109,7 +109,7 @@ author:
   name             : "gradius"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "hacker, python fanboy, gamer"
-  location         : "On an Internet spaceship"
+  location         : "Internet spaceship"
   email            :
   links:
     - label: "twitter"
