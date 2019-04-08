@@ -112,13 +112,13 @@ author:
   location         : "On an Internet spaceship"
   email            :
   links:
-    - label: "@0xgradius"
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/0xgradius"
-    - label: "gradiuscypher"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gradiuscypher"
-    - label: "@0xgradius"
+    - label: "medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@0xgradius"
 
