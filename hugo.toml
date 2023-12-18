@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'grds.io'
 theme = 'risotto'
 
+[params.theme]
+palette = "tokyo-night-dark"
+
 [menu]
   [[menu.main]]
     identifier = "posts"
